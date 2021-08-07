@@ -1,0 +1,6 @@
+name: EnderGrief
+version: ${project.version}
+main: uk.co.hopperelec.mc.endermengrief.Main
+api-version: 1.16
+authors: [ HopperElecYT ]
+description: Plugin made for Demonetized SMP to stop endermen from griefing
